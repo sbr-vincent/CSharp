@@ -1,0 +1,15 @@
+C:\Users\vince\OneDrive\Desktop\CSharp\HelloDotNET\bin\Debug\net6.0\HelloDotNET.exe
+C:\Users\vince\OneDrive\Desktop\CSharp\HelloDotNET\bin\Debug\net6.0\HelloDotNET.deps.json
+C:\Users\vince\OneDrive\Desktop\CSharp\HelloDotNET\bin\Debug\net6.0\HelloDotNET.runtimeconfig.json
+C:\Users\vince\OneDrive\Desktop\CSharp\HelloDotNET\bin\Debug\net6.0\HelloDotNET.dll
+C:\Users\vince\OneDrive\Desktop\CSharp\HelloDotNET\bin\Debug\net6.0\HelloDotNET.pdb
+C:\Users\vince\OneDrive\Desktop\CSharp\HelloDotNET\obj\Debug\net6.0\HelloDotNET.csproj.AssemblyReference.cache
+C:\Users\vince\OneDrive\Desktop\CSharp\HelloDotNET\obj\Debug\net6.0\HelloDotNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\OneDrive\Desktop\CSharp\HelloDotNET\obj\Debug\net6.0\HelloDotNET.AssemblyInfoInputs.cache
+C:\Users\vince\OneDrive\Desktop\CSharp\HelloDotNET\obj\Debug\net6.0\HelloDotNET.AssemblyInfo.cs
+C:\Users\vince\OneDrive\Desktop\CSharp\HelloDotNET\obj\Debug\net6.0\HelloDotNET.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\Desktop\CSharp\HelloDotNET\obj\Debug\net6.0\HelloDotNET.dll
+C:\Users\vince\OneDrive\Desktop\CSharp\HelloDotNET\obj\Debug\net6.0\refint\HelloDotNET.dll
+C:\Users\vince\OneDrive\Desktop\CSharp\HelloDotNET\obj\Debug\net6.0\HelloDotNET.pdb
+C:\Users\vince\OneDrive\Desktop\CSharp\HelloDotNET\obj\Debug\net6.0\HelloDotNET.genruntimeconfig.cache
+C:\Users\vince\OneDrive\Desktop\CSharp\HelloDotNET\obj\Debug\net6.0\ref\HelloDotNET.dll

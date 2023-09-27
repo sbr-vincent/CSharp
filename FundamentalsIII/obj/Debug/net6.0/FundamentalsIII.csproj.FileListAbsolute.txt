@@ -1,0 +1,15 @@
+C:\Users\vince\OneDrive\Desktop\CSharp\FundamentalsIII\bin\Debug\net6.0\FundamentalsIII.exe
+C:\Users\vince\OneDrive\Desktop\CSharp\FundamentalsIII\bin\Debug\net6.0\FundamentalsIII.deps.json
+C:\Users\vince\OneDrive\Desktop\CSharp\FundamentalsIII\bin\Debug\net6.0\FundamentalsIII.runtimeconfig.json
+C:\Users\vince\OneDrive\Desktop\CSharp\FundamentalsIII\bin\Debug\net6.0\FundamentalsIII.dll
+C:\Users\vince\OneDrive\Desktop\CSharp\FundamentalsIII\bin\Debug\net6.0\FundamentalsIII.pdb
+C:\Users\vince\OneDrive\Desktop\CSharp\FundamentalsIII\obj\Debug\net6.0\FundamentalsIII.csproj.AssemblyReference.cache
+C:\Users\vince\OneDrive\Desktop\CSharp\FundamentalsIII\obj\Debug\net6.0\FundamentalsIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\OneDrive\Desktop\CSharp\FundamentalsIII\obj\Debug\net6.0\FundamentalsIII.AssemblyInfoInputs.cache
+C:\Users\vince\OneDrive\Desktop\CSharp\FundamentalsIII\obj\Debug\net6.0\FundamentalsIII.AssemblyInfo.cs
+C:\Users\vince\OneDrive\Desktop\CSharp\FundamentalsIII\obj\Debug\net6.0\FundamentalsIII.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\Desktop\CSharp\FundamentalsIII\obj\Debug\net6.0\FundamentalsIII.dll
+C:\Users\vince\OneDrive\Desktop\CSharp\FundamentalsIII\obj\Debug\net6.0\refint\FundamentalsIII.dll
+C:\Users\vince\OneDrive\Desktop\CSharp\FundamentalsIII\obj\Debug\net6.0\FundamentalsIII.pdb
+C:\Users\vince\OneDrive\Desktop\CSharp\FundamentalsIII\obj\Debug\net6.0\FundamentalsIII.genruntimeconfig.cache
+C:\Users\vince\OneDrive\Desktop\CSharp\FundamentalsIII\obj\Debug\net6.0\ref\FundamentalsIII.dll

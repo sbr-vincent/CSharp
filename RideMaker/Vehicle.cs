@@ -1,4 +1,4 @@
-class Vehicle{
+public class Vehicle{
     public string Name;
     public int NumOfPassengers;
     public string CarColor;

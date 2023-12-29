@@ -1,4 +1,4 @@
-interface INeedFuel
+public interface INeedFuel
 {
     string FuelType {get;set;}
     int FuelTotal {get;set;}
